@@ -1,0 +1,6 @@
+We will implement three parametric density estimation approaches: MLE, MAP and Bayesian estimation. We will analyze the differences and see where these techniques help.
+
+Language: Python (libraries: scipy, numpy)
+
+Difficulty: Easy
+Resources: http://ce.sharif.edu/courses/91-92/2/ce725-2/resources/root/Lectures/Density%20Estimation%20(ML,%20MAP,%20Bayesian).pdf
